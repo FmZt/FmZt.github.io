@@ -45,5 +45,5 @@ Geplantes QGIS-Plugin, das die Ausbreitung von 4-m-BOS-Funk auf Basis öffentlic
 Meine Software-Projekte entwickle ich phasenweise zusammen mit Claude AI, mit sauberer Versionierung in Git und einer Sicherheitsprüfung des Codes bei jeder Version.
  
 ---
-*Stand: November 2026. Dieser Text wurde mit Claude AI erstellt.*
+*Stand: November 2026.*
  
